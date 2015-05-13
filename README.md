@@ -1,3 +1,3 @@
 # C NORME ANSI
 Exercices Langage C
-Ajout de code test depuis la branch.
+Ajout de NORME ANSI despuis mon-testBranch.
